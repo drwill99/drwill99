@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is **Dallin Williams**. I am currently a Computer Science student at BYU-Idaho, based in Rexburg, Idaho, USA. 🌍
+My name is **Dallin Williams**. I hold a Bachelor of Science in Computer Science from BYU-Idaho. Based in Dallas, TX 🌍
 
 ---
 ##### "What we want is a machine that can learn from experience." – Alan Turing
