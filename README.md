@@ -36,58 +36,31 @@ My name is **Dallin Williams**. I hold a Bachelor of Science in Computer Science
 &nbsp;
 [<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
-
-<!--
-Added more technologies and tools to your repertoire? Here's the template to add more Shields.io icons:
-
-[<img src="" alt="" title="" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" alt="apache_spark_logo" title="Apache Spark" height="25" />][tech_tools_anchor]
 &nbsp;
--->
+[<img src="https://img.shields.io/badge/Databricks-181825?style=for-the-badge&logo=databricks" alt="databricks_logo" title="Databricks" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="github_actions_logo" title="GitHub Actions" height="25" />][tech_tools_anchor]
+&nbsp;
 
 <a name="learning-next"></a>
 
-## 📖  What I am currently learning / improving on
+## 📖  What I am currently learning & improving on
 
 [<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="keras_logo" title="keras" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="scala_logo" title="scala" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="" alt="" title="" height="25" />][learning_now_anchor]
-&nbsp;
-
-<!--
-Learning something new? Here's the template to add more Shields.io icons:
-
-[<img src="" alt="" title="" height="25" />][learning_now_anchor]
-&nbsp;
--->
 
 ## 👾  What I am interested in learning at some point
 
 [<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go_logo" title="go" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="haskell_logo" title="haskell" height="25" />][learning_next_anchor]
-&nbsp;
-
-<!--
-Want to learn something eventually? Here's the template to add more Shields.io icons:
-
-[<img src="" alt="" title="" height="25" />][learning_next_anchor]
-&nbsp;
--->
 
 ## 🔍  Where to find me
 
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/drwill99/)
-&nbsp;
+[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/drwill99/)
 
-<!--
-Want to add another social media/contact info thingy? Here's the template to add more Shields.io icons:
-
-[<img src="" alt="" title="" height="25" />]([LINK])
-&nbsp;
--->
-
-[tech_tools_anchor]: #hello!
-[learning_now_anchor]: #learning-now
+[tech_tools_anchor]: #hello!  
+[learning_now_anchor]: #learning-now  
 [learning_next_anchor]: #learning-next
