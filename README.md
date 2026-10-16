@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is **Dallin Williams**. B.S. Based in Dallas, TX 🌍
+My name is **Dallin Williams**. BS Computer Science. Based in Dallas, TX 🌍
 
 ---
 ##### "What we want is a machine that can learn from experience." – Alan Turing
